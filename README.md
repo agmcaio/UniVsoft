@@ -1,5 +1,5 @@
 # UniVsoft
-Alguns exercícios e desafios proposto pela plataforma de curso da empresa que eu trabalho como estagiário.
+Alguns exercícios e desafios proposto pelo curso da plataforma da empresa que trabalho como estagiário.
 
 #### <b>Empresa<b>: [Vsoft Tecnologia](https://www.vsoft.com.br/)<br>
 #### <b>Cursos<b>:<br>
